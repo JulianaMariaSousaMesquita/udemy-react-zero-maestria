@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border-radius: 0px;
+    align-items: center;
+    text-align: center;
+}
+
+.card {
+    background-color: black;
+    border: 10px solid red;
+    width: 30%;
+    margin: 5px;
+    float: left;
+}
+
+.title {
+    color: red;
+}
+
+.info p {
+    color: white;
+}
